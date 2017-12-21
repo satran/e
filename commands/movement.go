@@ -1,9 +1,9 @@
 package commands
 
 import (
-	"github.com/kisielk/vigo/buffer"
-	"github.com/kisielk/vigo/editor"
-	"github.com/kisielk/vigo/utils"
+	"github.com/satran/e/buffer"
+	"github.com/satran/e/editor"
+	"github.com/satran/e/utils"
 )
 
 type Dir int

@@ -1,9 +1,9 @@
 package mode
 
 import (
-	cmd "github.com/kisielk/vigo/commands"
-	"github.com/kisielk/vigo/editor"
-	"github.com/kisielk/vigo/utils"
+	cmd "github.com/satran/e/commands"
+	"github.com/satran/e/editor"
+	"github.com/satran/e/utils"
 	"github.com/nsf/termbox-go"
 )
 

@@ -8,7 +8,7 @@ import (
 	"os"
 	"unicode/utf8"
 
-	"github.com/kisielk/vigo/utils"
+	"github.com/satran/e/utils"
 )
 
 type Line struct {

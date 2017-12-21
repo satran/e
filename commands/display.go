@@ -1,7 +1,7 @@
 package commands
 
 import (
-	"github.com/kisielk/vigo/editor"
+	"github.com/satran/e/editor"
 )
 
 type DisplayFileStatus struct{}

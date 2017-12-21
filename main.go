@@ -3,8 +3,8 @@ package main
 import (
 	"os"
 
-	"github.com/kisielk/vigo/editor"
-	"github.com/kisielk/vigo/mode"
+	"github.com/satran/e/editor"
+	"github.com/satran/e/mode"
 	"github.com/nsf/termbox-go"
 )
 

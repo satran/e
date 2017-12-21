@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/kisielk/vigo/editor"
+	"github.com/satran/e/editor"
 	"github.com/nsf/termbox-go"
 )
 

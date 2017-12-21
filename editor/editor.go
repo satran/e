@@ -8,8 +8,8 @@ import (
 	"path/filepath"
 	"strconv"
 
-	"github.com/kisielk/vigo/buffer"
-	"github.com/kisielk/vigo/view"
+	"github.com/satran/e/buffer"
+	"github.com/satran/e/view"
 	"github.com/nsf/termbox-go"
 	"github.com/nsf/tulib"
 )

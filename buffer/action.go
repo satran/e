@@ -3,7 +3,7 @@ package buffer
 import (
 	"bytes"
 
-	"github.com/kisielk/vigo/utils"
+	"github.com/satran/e/utils"
 )
 
 type ActionType int

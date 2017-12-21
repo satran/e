@@ -2,7 +2,7 @@ package commands
 
 import (
 	"bytes"
-	"github.com/kisielk/vigo/editor"
+	"github.com/satran/e/editor"
 )
 
 type Search struct {

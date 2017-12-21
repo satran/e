@@ -5,7 +5,7 @@ import (
 	"unicode"
 	"unicode/utf8"
 
-	"github.com/kisielk/vigo/utils"
+	"github.com/satran/e/utils"
 )
 
 type RangeFunc func(from Cursor, to Cursor)

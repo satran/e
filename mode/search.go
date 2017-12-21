@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"strings"
 
-	cmd "github.com/kisielk/vigo/commands"
-	"github.com/kisielk/vigo/editor"
+	cmd "github.com/satran/e/commands"
+	"github.com/satran/e/editor"
 	"github.com/nsf/termbox-go"
 )
 
